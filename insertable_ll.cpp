@@ -1,3 +1,4 @@
+// has issues with entering elements on 0 th index and program crashes when index entered out of linkedlist's size
 #include<iostream>
 using namespace std;
 class Node
